@@ -1,0 +1,34 @@
+D:\Front-end developed\C#\Console Application\WorkingWithFilesUsingForm\WorkingWithFilesUsingForm\bin\Debug\net6.0-windows\WorkingWithFilesUsingForm.exe
+D:\Front-end developed\C#\Console Application\WorkingWithFilesUsingForm\WorkingWithFilesUsingForm\bin\Debug\net6.0-windows\WorkingWithFilesUsingForm.deps.json
+D:\Front-end developed\C#\Console Application\WorkingWithFilesUsingForm\WorkingWithFilesUsingForm\bin\Debug\net6.0-windows\WorkingWithFilesUsingForm.runtimeconfig.json
+D:\Front-end developed\C#\Console Application\WorkingWithFilesUsingForm\WorkingWithFilesUsingForm\bin\Debug\net6.0-windows\WorkingWithFilesUsingForm.dll
+D:\Front-end developed\C#\Console Application\WorkingWithFilesUsingForm\WorkingWithFilesUsingForm\bin\Debug\net6.0-windows\WorkingWithFilesUsingForm.pdb
+D:\Front-end developed\C#\Console Application\WorkingWithFilesUsingForm\WorkingWithFilesUsingForm\obj\Debug\net6.0-windows\WorkingWithFilesUsingForm.csproj.AssemblyReference.cache
+D:\Front-end developed\C#\Console Application\WorkingWithFilesUsingForm\WorkingWithFilesUsingForm\obj\Debug\net6.0-windows\WorkingWithFilesUsingForm.Form1.resources
+D:\Front-end developed\C#\Console Application\WorkingWithFilesUsingForm\WorkingWithFilesUsingForm\obj\Debug\net6.0-windows\WorkingWithFilesUsingForm.csproj.GenerateResource.cache
+D:\Front-end developed\C#\Console Application\WorkingWithFilesUsingForm\WorkingWithFilesUsingForm\obj\Debug\net6.0-windows\WorkingWithFilesUsingForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Front-end developed\C#\Console Application\WorkingWithFilesUsingForm\WorkingWithFilesUsingForm\obj\Debug\net6.0-windows\WorkingWithFilesUsingForm.AssemblyInfoInputs.cache
+D:\Front-end developed\C#\Console Application\WorkingWithFilesUsingForm\WorkingWithFilesUsingForm\obj\Debug\net6.0-windows\WorkingWithFilesUsingForm.AssemblyInfo.cs
+D:\Front-end developed\C#\Console Application\WorkingWithFilesUsingForm\WorkingWithFilesUsingForm\obj\Debug\net6.0-windows\WorkingWithFilesUsingForm.csproj.CoreCompileInputs.cache
+D:\Front-end developed\C#\Console Application\WorkingWithFilesUsingForm\WorkingWithFilesUsingForm\obj\Debug\net6.0-windows\WorkingWithFilesUsingForm.dll
+D:\Front-end developed\C#\Console Application\WorkingWithFilesUsingForm\WorkingWithFilesUsingForm\obj\Debug\net6.0-windows\refint\WorkingWithFilesUsingForm.dll
+D:\Front-end developed\C#\Console Application\WorkingWithFilesUsingForm\WorkingWithFilesUsingForm\obj\Debug\net6.0-windows\WorkingWithFilesUsingForm.pdb
+D:\Front-end developed\C#\Console Application\WorkingWithFilesUsingForm\WorkingWithFilesUsingForm\obj\Debug\net6.0-windows\WorkingWithFilesUsingForm.genruntimeconfig.cache
+D:\Front-end developed\C#\Console Application\WorkingWithFilesUsingForm\WorkingWithFilesUsingForm\obj\Debug\net6.0-windows\ref\WorkingWithFilesUsingForm.dll
+D:\Front-end developed\C#\Windows Forms Application\Практические 15 - 16\WorkingWithFilesUsingForm\WorkingWithFilesUsingForm\bin\Debug\net6.0-windows\WorkingWithFilesUsingForm.exe
+D:\Front-end developed\C#\Windows Forms Application\Практические 15 - 16\WorkingWithFilesUsingForm\WorkingWithFilesUsingForm\bin\Debug\net6.0-windows\WorkingWithFilesUsingForm.deps.json
+D:\Front-end developed\C#\Windows Forms Application\Практические 15 - 16\WorkingWithFilesUsingForm\WorkingWithFilesUsingForm\bin\Debug\net6.0-windows\WorkingWithFilesUsingForm.runtimeconfig.json
+D:\Front-end developed\C#\Windows Forms Application\Практические 15 - 16\WorkingWithFilesUsingForm\WorkingWithFilesUsingForm\bin\Debug\net6.0-windows\WorkingWithFilesUsingForm.dll
+D:\Front-end developed\C#\Windows Forms Application\Практические 15 - 16\WorkingWithFilesUsingForm\WorkingWithFilesUsingForm\bin\Debug\net6.0-windows\WorkingWithFilesUsingForm.pdb
+D:\Front-end developed\C#\Windows Forms Application\Практические 15 - 16\WorkingWithFilesUsingForm\WorkingWithFilesUsingForm\obj\Debug\net6.0-windows\WorkingWithFilesUsingForm.csproj.AssemblyReference.cache
+D:\Front-end developed\C#\Windows Forms Application\Практические 15 - 16\WorkingWithFilesUsingForm\WorkingWithFilesUsingForm\obj\Debug\net6.0-windows\WorkingWithFilesUsingForm.Form1.resources
+D:\Front-end developed\C#\Windows Forms Application\Практические 15 - 16\WorkingWithFilesUsingForm\WorkingWithFilesUsingForm\obj\Debug\net6.0-windows\WorkingWithFilesUsingForm.csproj.GenerateResource.cache
+D:\Front-end developed\C#\Windows Forms Application\Практические 15 - 16\WorkingWithFilesUsingForm\WorkingWithFilesUsingForm\obj\Debug\net6.0-windows\WorkingWithFilesUsingForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Front-end developed\C#\Windows Forms Application\Практические 15 - 16\WorkingWithFilesUsingForm\WorkingWithFilesUsingForm\obj\Debug\net6.0-windows\WorkingWithFilesUsingForm.AssemblyInfoInputs.cache
+D:\Front-end developed\C#\Windows Forms Application\Практические 15 - 16\WorkingWithFilesUsingForm\WorkingWithFilesUsingForm\obj\Debug\net6.0-windows\WorkingWithFilesUsingForm.AssemblyInfo.cs
+D:\Front-end developed\C#\Windows Forms Application\Практические 15 - 16\WorkingWithFilesUsingForm\WorkingWithFilesUsingForm\obj\Debug\net6.0-windows\WorkingWithFilesUsingForm.csproj.CoreCompileInputs.cache
+D:\Front-end developed\C#\Windows Forms Application\Практические 15 - 16\WorkingWithFilesUsingForm\WorkingWithFilesUsingForm\obj\Debug\net6.0-windows\WorkingWithFilesUsingForm.dll
+D:\Front-end developed\C#\Windows Forms Application\Практические 15 - 16\WorkingWithFilesUsingForm\WorkingWithFilesUsingForm\obj\Debug\net6.0-windows\refint\WorkingWithFilesUsingForm.dll
+D:\Front-end developed\C#\Windows Forms Application\Практические 15 - 16\WorkingWithFilesUsingForm\WorkingWithFilesUsingForm\obj\Debug\net6.0-windows\WorkingWithFilesUsingForm.pdb
+D:\Front-end developed\C#\Windows Forms Application\Практические 15 - 16\WorkingWithFilesUsingForm\WorkingWithFilesUsingForm\obj\Debug\net6.0-windows\WorkingWithFilesUsingForm.genruntimeconfig.cache
+D:\Front-end developed\C#\Windows Forms Application\Практические 15 - 16\WorkingWithFilesUsingForm\WorkingWithFilesUsingForm\obj\Debug\net6.0-windows\ref\WorkingWithFilesUsingForm.dll
